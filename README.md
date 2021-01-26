@@ -12,4 +12,3 @@ in your browser just go to [*http://localhost:5000*](http://localhost:5000*)
 
 ## Todo:
 * better design
-* resolve XSS vulnerability
